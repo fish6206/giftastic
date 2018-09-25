@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://static.highsnobiety.com/wp-content/uploads/2018/02/07132133/nfl-logos-from-memory-01-480x320.jpg")
+}
+
+.white-text {
+  color: whitesmoke;
+  font-weight: bold;
+}
+
+.blue-text {
+    color: grey;
+    font-weight: bold;
+}
